@@ -11,7 +11,7 @@ The App allows to simply start, stop and save interval measurements using differ
 
 ## Starting a measurement
 
-Before starting a measurement, a user has to select the desired sensors from a list which is dynamically updated once new sensors are connected. Afterwards, he/she enters his/her database credentials for remote storage. A remote database is a critical feature for all use cases. Lastly, the measurement interval time is set either by entering a number directly via keyboard or, as it is more often the case, by setting the time via the touch screen using the *+* and *-* buttons. A final press on start proceeds to take data from the specified sensors after the interval time has passed and saves it to the cloud.
+Before starting a measurement, a user has to select the desired sensors from a list which is dynamically updated once new sensors are connected. Afterwards, he/she enters his/her database credentials for remote storage. A remote database is a critical feature for all considered use cases. Lastly, the measurement interval time is set either by entering a number directly via keyboard or, as it is more often the case, by setting the time via the touch screen using the *+* and *-* buttons. A final press on start proceeds to take data from the specified sensors after the interval time has passed and saves it to the cloud.
 
 ![png](docs/images/App3.png)
 
