@@ -3,7 +3,7 @@
 
 ## Install
 
-Download the repository, install requirements, if desired freeze package using for example pyInstaller.
+`python3 setup.py build`
 
 ## Overview
 
