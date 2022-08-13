@@ -9,4 +9,4 @@ Download the repository, install requirements, if desired freeze package using f
 
 ![png](docs/images/App3.png)
 ![png](docs/images/App4.png)
-
+![pdf](docs/images/RC_db_scheme.pdf)
