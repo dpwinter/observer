@@ -17,7 +17,7 @@ Before starting a measurement, a user has to select the desired sensors from a l
 
 ## Stopping a measurement
 
-Once started, the interface elements become inactive until the measurement is stopped. Typical measurements last from days up to several weeks. For these relatively long periods the application had to be developed with robostness and self-correcting behavior in mind. Once an irreparable error occurs, the user is notified by a pop-up and via email.
+Once started, the interface elements become inactive until the measurement is stopped. Typical measurements last from days up to several weeks. For these relatively long periods the application had to be developed with robostness and self-correcting behavior in mind. Once an irreparable error occurs, the user is notified via pop-up directly on the touch screen and if desired also via email.
 
 ![png](docs/images/App4.png)
 
